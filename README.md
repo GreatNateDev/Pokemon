@@ -2,7 +2,7 @@
 
 <p align="left">- Beating every pokemon game before legends ZA comes out. The bold ones are the ones im currently working on and the rest are ones i havent started<br>
 - Blue<br>
--  <b>Yellow</b><br>
+-  Yellow<br>
 -    Silver<br>
 - Crystal<br>
 -  Ruby<br>
@@ -10,7 +10,7 @@
 -    FireRed<br>
 -  Emerald<br>
 -   Pearl<br>
--   Black<br>
+-   <b>Black</b><br>
 -   Black 2<br>
 -    Y<br>
 -   Sun<br>
