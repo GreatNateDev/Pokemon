@@ -10,9 +10,8 @@
 -    FireRed<br>
 -  Emerald<br>
 -   Pearl<br>
--   <b>Black</b><br>
 -   Black 2<br>
--    Y<br>
+-    <b>Y</b><br>
 -   Sun<br>
 -    Ultra Sun<br>
 -  Lets Go Pikachu<br>
