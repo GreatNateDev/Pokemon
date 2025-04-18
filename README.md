@@ -1,12 +1,11 @@
 ###
 
 <p align="left">- Beating every pokemon game before legends ZA comes out. This is in order<br>
-1. Scarlet<br>
 2. Y<br>
-3. Yellow<br>
+3. Lets Go Pikachu<br> 
 4. Shield<br> 
 5. Pearl<br> 
-6. Lets Go Pikachu<br> 
+6. Yellow<br>
 7. Black 2<br> 
 8. FireRed<br>
 9. Brillent Diamond<br> 
