@@ -1,6 +1,6 @@
 ###
 
-<p align="left">- Pokemon Play Lis<br>
+<p align="left">- Pokemon Play List<br>
 Emerald<br>
 Crystal<br>
 Yellow<br>
