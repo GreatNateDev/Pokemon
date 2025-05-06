@@ -3,7 +3,6 @@
 <p align="left">- Pokemon Play List<br>
 Emerald<br>
 Crystal<br>
-Yellow<br>
 Shining Pearl<br>
 Shield<br>
 Black 2<br>
@@ -21,6 +20,7 @@ Lets Go Eevee<br>
 Silver<br>
 Sword<br>
 Blue<br>
+Yellow<br>
 Sun<br>
 Sapphire<br>
 </p>
