@@ -7,7 +7,6 @@ Yellow<br>
 Shining Pearl<br>
 Shield<br>
 Black 2<br>
-Lets Go Pika<br>
 </p>
 <p>
 Repeats that i may not do<br>
