@@ -3,7 +3,6 @@
 <p align="left">- Pokemon Play List<br>
 Emerald<br>
 Crystal<br>
-Shining Pearl<br>
 Shield<br>
 Black 2<br>
 </p>
